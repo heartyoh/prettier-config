@@ -1,6 +1,6 @@
 {
   "name": "@hatiolab/prettier-config",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Prettier config used at hatiolab projects",
   "publishConfig": {
     "access": "public",
